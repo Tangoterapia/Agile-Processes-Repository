@@ -29,8 +29,7 @@ something is misunderstood in that stage. Therefore, they can't be ambiguous.
 -The length of the project is short.
 
 Scenario where it could be applied:
--Short college task or homework, where we have a fixed set of requirements and the project won't be
-revisited later.
+-Multi-disciplinary project.
 -Experienced team used to working with this model.
 -Projects that need to be developed and deployed in a certain amount of time, usually not that much,
 with a strict time control.
