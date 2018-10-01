@@ -1,0 +1,51 @@
+Classic Lifecycle Model is also known as the Linear Sequential model, due to its behavior.
+In this model, the software is developed in a linear and sequential way, with different phases
+in which we stay until we have finished, and once we get to the next phase, we will never get
+back to the previous one. Also, there's no phase overlapping, that is, we won't start a new phase
+until the previous one has been succesfully completed. We could think of this model as a waterfall,
+where water flows sequentially down and never goes up again, due both things to gravity. As this
+is a really good portrayal of this model, it's also widely known as Waterfall Model.
+
+It's divided in six phases:
+-Requirement Analysis: all the requirements are captured in this phase through communication
+with the client. They are saved in a specification document.
+-System Design: according to the previously captured requirements, a definition of the system's
+architecture. The people working in this stage emphasize on finding the best solution to the given
+problem.
+-Implementation/Coding: using the design outputted by the previous stage, the program is built. 
+This is usually done in different parts (called units) which will be integrated together in the next 
+stage.
+-Testing: anything coded to solve the problem is put together, and the system is tested as a whole.
+-Deployment: after finishing with tests and checking that everything goes right, the system is 
+released into the market.
+-Maintenance.
+
+For a successful application of this model, there are some things needed:
+-Requirements must be very well documented, clear and non-mutable, as we can't revisit phases if
+something is misunderstood in that stage. Therefore, they can't be ambiguous.
+-Product definition is stable.
+-Technology is understood and is not dynamic.
+-There are several resources available to support the product with a certain degree of expertise.
+-The length of the project is short.
+
+Scenario where it could be applied:
+-Short college task or homework, where we have a fixed set of requirements and the project won't be
+revisited later.
+-Experienced team used to working with this model.
+-Projects that need to be developed and deployed in a certain amount of time, usually not that much,
+with a strict time control.
+
+Advantages:
+-Clearly defined stages and milestones, which allows a greater managerial control.
+-Phases processed once at a time.
+-Easiness of use.
+
+Disadvantages:
+-Requirements need to be specified only at the beginning, and have to be really exhaustively defined,
+as ambiguity can lead the project to be completely the opposite to the desired one.
+-No user involvement.
+-Assumption of the stability of the requirements throughout the whole project development.
+
+
+
+
