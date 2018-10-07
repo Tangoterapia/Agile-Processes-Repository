@@ -1,0 +1,15 @@
+Evolutionary Lifecycle is composed of a cyclic-shaped set of phases, as other 
+lifecycle models seen previously. It works as a traditional Waterfall 
+development cycle but split in smaller incremental models. As a result, the 
+development team can either altering the requirements or planning modifications
+on the product.
+
+Some benefits:
+-Reduces the risk and the cost, as you examine and analyze issues of each phase.
+-Minimizes critical and serious defects during testing phase, and also reduces
+the amount of late changes.
+-Response to changes is quite improved.
+-Team is more motivated and collaborating, and also the customer is involved in
+the development.
+-Marketing and sales teams can access to the product in earlier stages, so the
+sales cycle can be started before the product release.
