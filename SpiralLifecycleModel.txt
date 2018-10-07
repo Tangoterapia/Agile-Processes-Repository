@@ -1,0 +1,42 @@
+Spiral Lifecycle Model is a mixture of the Classic Model and the Incremental
+model. It was first mentioned by Barry Boehm in 1986. It allows incremental
+releases of the product or incremental refinement through each iteration, but
+with a level of control close to the Waterfall's.
+
+In each iteration, which in this case are called spirals, the project goes
+through this phases:
+-Identification and planning: in this phase, continuous communication with
+the customer takes place, so the requirements and specifications of the final
+product are identified properly. Also, time, economic and resources costs of
+the iterations are estimated.
+-Design: the work plan is developed in this phase.
+-Build: this phase involves the actual construction of the product following
+the plan that was developed in the previous one. That is, it's the coding stage.
+-Evaluation and Risk Analysis: the risk related directly with the product is
+identified, estimated and monitored, and after a test is performed on the
+product, the spiral is completed. The customer then evaluates the software and
+gives feedback on it. Based on that, the software could get into a new spiral, 
+or be released to the market.
+
+This type of lifecycle should be used when:
+-Project is medium to high risked.
+-Requirements are unclear and complex, or the customer isn't sure about them.
+-There could be changing economic priorities, which means long term commitment
+on the project isn't 100 percent sure.
+-Significant changes are expected at any time in the project.
+-There are budget and time constraints, so risk and cost evaluation are crucial.
+
+Advantages:
+-Customer feedback, which means he is involved in the development.
+-Changes can be done at later stages, both in requirements and in the project 
+itself.
+-Better risk management and cost estimation.
+
+Disadvantages:
+-As there might be lots of intermediate phases, documentation can turn out to 
+be huge.
+-The spiral can be interminable, as you don't know early when the project is
+ending.
+-If used in small projects, the cost might be excessive.
+-Process and management are complex.
+-Risk of not meeting the schedule or the budget.
