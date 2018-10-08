@@ -13,3 +13,20 @@ the amount of late changes.
 the development.
 -Marketing and sales teams can access to the product in earlier stages, so the
 sales cycle can be started before the product release.
+
+There are two types of Evolutionary development:
+-Exploratory Development: first, the parts of the customer spec that are understood
+are developed, and after that is finished, the team contacts the customer to show
+what's been done so far. The client proposes then new attributes and functionalities.
+-Disposable Prototypes: the objective is refining at each iteration the product, so
+at the end of each one, the customer revises the product and gives his impressions, 
+which allows the team to get a better defined set of requirements which will be used
+in the next iteration.
+
+As every model, it has some disadvantages:
+-Continuous changes can be bad for the system's structure, which would reflect in a
+high maintenance cost.
+-Techniques and tools needed might be too complex for a non-expert team.
+-If the system needs to be developed fast, it's not possible to produce docs that
+reflect every version of the system, and that is needed to measure the progress of
+the project.
