@@ -44,6 +44,7 @@ Disadvantages:
 as ambiguity can lead the project to be completely the opposite to the desired one.
 -No user involvement.
 -Assumption of the stability of the requirements throughout the whole project development.
+-Lack of flexibility.
 
 
 

@@ -23,6 +23,11 @@ Scenarios in which Incremental models are optimal:
 needed.
 -High-risk features and goals are involved.
 
+Some conditions to use it:
+-Requirements must be known.
+-Natural fragmentation of the requirements.
+-Available skilled personnel.
+
 Advantages:
 -Quick generation of the software.
 -Flexible and less expensive to change requirements.
