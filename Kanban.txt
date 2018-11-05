@@ -1,0 +1,14 @@
+HISTORY
+Kanban is an engineering process which was first developed by Toyota in the
+late 1940s. It is a just-in-time process, that is, the production is directly
+dependent on the client's demand. Instead of manufacturing a lot and then
+trying to sell all those products, the quantity produced is the demanded by
+the market. This is done to minimize the waste.
+In Japanese, Kanban means "card with signs", and the system is called this way
+because Toyota workers used this kanban to signal steps in the manufacturing
+process: what was done, what was started but not done yet and what needed to
+be done but wasn't started.
+In the beginning of the 21st century, it was discovered that Kanban was actually
+applicable to other working scenarios, not only the manufacturing industry, and
+David J. Anderson effectively stated how this Kanban method needed to be applied.
+
