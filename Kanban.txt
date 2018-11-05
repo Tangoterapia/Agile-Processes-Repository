@@ -12,3 +12,24 @@ In the beginning of the 21st century, it was discovered that Kanban was actually
 applicable to other working scenarios, not only the manufacturing industry, and
 David J. Anderson effectively stated how this Kanban method needed to be applied.
 
+HOW IT WORKS
+-Visualizing the work flow is really important. To do this, a Kanban board is
+used. In this visualization board, we will be able to see all the tasks that
+are needed (each of them represented as an individual card), placed in at least
+three columns: one for the already done ones, another for the ones that are
+currently being done and the last one for the ones which haven't been started yet.
+To these, there's usually added another one to state those tasks that haven't
+been started yet but are ready to be worked on.
+-Limiting work in process reduces problems related to task switching, constant
+re-prioritization of items or multi-tasking. It's likely to be the number of workers
+multiplied by 1.5, so that if any tasks are blocked in a certain moment, we can
+guarantee that there is at least one task per worker. These limits make it 
+easier to find the source of a problem as, if something went wrong blocking
+a certain stage for too much time, a bottle neck could clearly be seen, so less
+time is wasted looking for the root the problem.
+
+KANBAN VS SCRUM
+Differences:
+-No defined roles
+-No deadlines
+-Estimation is not critical as there's no deadlining
